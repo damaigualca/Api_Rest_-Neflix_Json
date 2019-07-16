@@ -64,7 +64,7 @@ public class AlquilerFacadeREST extends AbstractFacade<Alquiler> {
 
     @GET
     @Override
-    @Produces({MediaType.APPLICATION_XML, MediaType.APPLICATION_JSON})
+    @Produces({MediaType.APPLICATION_JSON})
     public List<Alquiler> findAll() {
         return super.findAll();
     }

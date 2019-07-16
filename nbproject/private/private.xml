@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/PC/Desktop/Api_Rest_-Neflix_Json/src/java/services/service/GeneroFacadeREST.java</file>
+            <file>file:/C:/Users/PC/Desktop/Api_Rest_-Neflix_Json/src/java/services/service/ActorFacadeREST.java</file>
+            <file>file:/C:/Users/PC/Desktop/Api_Rest_-Neflix_Json/src/java/services/service/AlquilerFacadeREST.java</file>
+            <file>file:/C:/Users/PC/Desktop/Api_Rest_-Neflix_Json/src/java/models/Actor.java</file>
+            <file>file:/C:/Users/PC/Desktop/Api_Rest_-Neflix_Json/src/java/models/Alquiler.java</file>
+            <file>file:/C:/Users/PC/Desktop/Api_Rest_-Neflix_Json/src/java/services/service/PeliculaFacadeREST.java</file>
+            <file>file:/C:/Users/PC/Desktop/Api_Rest_-Neflix_Json/src/java/services/service/AbstractFacade.java</file>
+            <file>file:/C:/Users/PC/Desktop/Api_Rest_-Neflix_Json/web/index.html</file>
+        </group>
+    </open-files>
+</project-private>

@@ -64,7 +64,7 @@ public class ActorFacadeREST extends AbstractFacade<Actor> {
 
     @GET
     @Override
-    @Produces({MediaType.APPLICATION_XML, MediaType.APPLICATION_JSON})
+    @Produces({ MediaType.APPLICATION_JSON})
     public List<Actor> findAll() {
         return super.findAll();
     }
